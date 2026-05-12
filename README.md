@@ -23,8 +23,8 @@ A deep learning toolkit for image classification with Gradio interface, featurin
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/classification-toolkit.git
-cd classification-toolkit
+git clone https://github.com/Lien5757/cnn-classifier-gradio.git
+cd cnn-classifier-gradio
 
 # Install dependencies
 pip install -r requirements.txt
