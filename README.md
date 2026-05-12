@@ -91,7 +91,7 @@ classification-toolkit/
 ![Heatmap Examples](examples/heatmaps.jpg)
 
 ### Confusion Matrix
-![Confusion Matrix](example/confusion_matrix_normalized.png)
+![Confusion Matrix](examples/confusion_matrix_normalized.png)
 
 ## 🔧 Supported Models
 
