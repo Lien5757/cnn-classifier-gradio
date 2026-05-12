@@ -88,10 +88,10 @@ classification-toolkit/
 ![Training Progress](examples/training_curves.png)
 
 ### Grad-CAM Heatmaps
-![Heatmap Examples](examples/heatmaps.png)
+![Heatmap Examples](examples/heatmaps.jpg)
 
 ### Confusion Matrix
-![Confusion Matrix](examples/confusion_matrix.png)
+![Confusion Matrix](example/confusion_matrix_normalized.png)
 
 ## 🔧 Supported Models
 
