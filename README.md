@@ -74,8 +74,8 @@ python main.py
 ```
 classification-toolkit/
 ├── main.py                      # Main Gradio application
-├── data_splitting.py            # Dataset splitting utility
 ├── utils/
+│   ├── data_splitting.py        # Dataset splitting utility
 │   └── classifier_utils.py      # Training/evaluation utilities
 ├── datasets/                    # Dataset directory
 ├── checkpoints/                 # Saved models
@@ -106,8 +106,8 @@ classification-toolkit/
 ### Training
 - `best_model.pth` - Model with highest validation accuracy
 - `final_model.pth` - Model from last epoch
-- `loss_acc_plot.png` - Training/validation curves
-- `logs/` - Detailed training logs
+- `training_process.png` - Training/validation curves
+- `train.log` - Detailed training logs
 
 ### Evaluation
 - `confusion_matrix.png` - Confusion matrix visualization
