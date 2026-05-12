@@ -1,0 +1,7 @@
+sgd_0.001_0.0001_64_200_50_exp2
+
+Accuracy: 0.9677
+Precision: 0.9698
+Recall: 0.9677
+F1 Score: 0.9677
+Overkill Rate: 0.0625
