@@ -85,7 +85,7 @@ classification-toolkit/
 ## Sample Results
 
 ### Training Curves
-![Training Progress](examples/training_curves.png)
+![Training Progress](examples/training_process.png)
 
 ### Grad-CAM Heatmaps
 ![Heatmap Examples](examples/heatmaps.jpg)
