@@ -6,7 +6,7 @@ from glob import glob
 from tqdm import tqdm
 from datetime import datetime
 
-from data_augmant import augment_image
+from utils.data_augmant_utils import augment_image
 
 import gradio as gr
 
